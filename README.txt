@@ -109,6 +109,3 @@ Qualitatively, the two-stage design reliably fixes the main failure mode of the 
 Technical University of Cluj-Napoca, Faculty of Electronics, Telecommunications and Information Technology
 Supervisor: Sl.dr.ing. Ștefania-Ramona Benea
 
-## License
-
-Add a license of your choice (e.g. MIT) if you want others to reuse this code.
