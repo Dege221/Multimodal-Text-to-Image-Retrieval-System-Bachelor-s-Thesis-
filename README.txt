@@ -34,7 +34,7 @@ Image collection ─► CLIP image encoder ─┘
 
 ## Dataset
 
-[Flickr30k](http://shannon.cs.illinois.edu/DenotationGraph/): 31,783 images, 158,915 captions (5 per image), stored as a single image folder plus a pipe-separated `results.csv` caption file.
+[Flickr30k]: 31,783 images, 158,915 captions (5 per image), stored as a single image folder plus a pipe-separated `results.csv` caption file.
 
 ## Tech stack
 
